@@ -4,6 +4,7 @@ sources:
   - name: stripe
     description: A clone of a Postgres application database.
     database: d2dimmpn83k0je
+    schema: stripe
     tables:
       - name: payment
         description: Raw stripe data.
