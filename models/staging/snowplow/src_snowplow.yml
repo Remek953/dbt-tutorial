@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: snowplow
-    database: raw
+    database: d2dimmpn83k0je
     loaded_at_field: collector_tstamp
     freshness:
       error_after: {count: 1, period: hour}
